@@ -1,0 +1,17 @@
+
+.bola_inicio {
+    position: relative;
+    margin-left: 23em;
+    margin-top: -5.3em;
+    background-color: #B08F52;
+    width: 28px;
+    padding: 20px;
+    border-radius: 100%;
+}
+
+.hidden-inicio {
+    display: none;
+    position: relative;
+    color: white;
+    margin-left: 1em;
+}
